@@ -1,0 +1,10 @@
+﻿Guava,Banana,,
+Guava,Banana,Kiwi,
+Kiwi,Mango,,
+Banana,Kiwi,Mango,
+Guava,Kiwi,Mango,
+Kiwi,Mango,Egg,Fish
+Banana,Mango,Egg,Fish
+Guava,Egg,Fish,
+Guava,Banana,Egg,Fish
+Egg,Fish,,
